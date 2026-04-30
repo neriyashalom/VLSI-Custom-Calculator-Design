@@ -43,7 +43,7 @@ This project showcases the full-custom, transistor-level design of a synchronous
 
 | Top-Level Layout | ALU |
 | :---: | :---: |
-| ![Layout](images/full_layout.jpg) | ![SRAM](images/ALU.png) |
+| ![Layout](images/full_layout.jpg) | ![ALU](images/ALU.png) |
 
 | DRC & LVS Verification |
 | :---: |
