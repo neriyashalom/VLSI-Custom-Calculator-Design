@@ -41,9 +41,9 @@ This project showcases the full-custom, transistor-level design of a synchronous
 
 ### Gallery
 
-| Top-Level Layout | SRAM Matrix |
+| Top-Level Layout | ALU |
 | :---: | :---: |
-| ![Layout](images/full_layout.jpg) | ![SRAM](images/memory_matrix.jpg) |
+| ![Layout](images/full_layout.jpg) | ![SRAM](images/ALU.png) |
 
 | DRC & LVS Verification |
 | :---: |
